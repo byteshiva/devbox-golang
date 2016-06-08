@@ -48,6 +48,10 @@ for setting up a Vim-based Golang development environment.
 	```
 
 3. Install a recent version of ansible:
+	Make sure to install the latest version, refer 
+	1. [https://docs.ansible.com/ansible/intro_installation.html#latest-releases-via-apt-ubuntu](https://docs.ansible.com/ansible/intro_installation.html#latest-releases-via-apt-ubuntu)
+	2. [https://docs.ansible.com/ansible/intro_installation.html](https://docs.ansible.com/ansible/intro_installation.html)
+	3. 
    ```bash
    sudo apt-get install ansible/trusty-backports
    ```
