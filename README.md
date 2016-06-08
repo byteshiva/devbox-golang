@@ -59,7 +59,12 @@ for setting up a Vim-based Golang development environment.
 	```bash
 	sudo dpkg -i <deb-file>
 	```
-
+6. Install Ansible and Virtualbox, Docker plugin in vagrant
+	```bash
+		vagrant plugin install ansible
+		vagrant plugin install docker 
+		vagrant plugin install virtualbox
+	```
 ## Setup and Usage
 
 #### Clone the github repository:
